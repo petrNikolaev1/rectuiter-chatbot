@@ -1,0 +1,11 @@
+Conversation with Rodrigo Kossmann, Software Engineer, PayPal
+
+
+8:00 PM 05-04-2023 Daria Aleshchenko (daleshchenko@insquad.com) - Hi Rodrigo! My name is Ada. I&#039;m a tech recruiter at Insquad, a talent platform that connects developers with top-notch US tech jobs. Let&#039;s connect!
+4:19 PM 06-04-2023 Rodrigo Kossmann (rodrigo-kossmann) - Hi, Ada
+7:53 PM 06-04-2023 Daria Aleshchenko (daleshchenko@insquad.com) - Thanks for connecting. I’m also looking for a JS Fullstack developer for a San-Fransisco-based startup. They are working on a project to support game developers and are currently scaling their team with talented devs. After looking at your background, I think you’d be a great fit!Are you open to such an opportunity? If yes, please send in your CV and I will provide more information about the position.
+6:03 AM 08-04-2023 Rodrigo Kossmann (rodrigo-kossmann) - Hi Ada. Sure, here is my CV.My gitgub is a bit outdated, but here is the link: https://github.com/rodrigokossmannPlease send more information about this position
+6:06 PM 09-04-2023 Daria Aleshchenko (daleshchenko@insquad.com) - Thanks for the CV. I will get back to you once we have reviewed your CV.Here&#039;s a link to a more detailed JD https://dev.insquad.com/senior-full-stack-developer?utm_source=closely&amp;utm_campaign=35-react+node-brazil&amp;utm_content=landing Hope it answers the questions you may haveHave a nice day!
+
+
+Exported from Closely on 11:32 AM 13-07-2023

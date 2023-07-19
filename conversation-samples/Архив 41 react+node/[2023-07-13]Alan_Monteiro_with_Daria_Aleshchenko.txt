@@ -1,0 +1,11 @@
+Conversation with Alan Monteiro, Software Architect, Avaya
+
+
+4:30 AM 06-05-2023 Daria Aleshchenko (daleshchenko@insquad.com) - Hi Alan! My name is Daria. I&#039;m a tech recruiter at Insquad, a talent platform that connects developers with top-notch US tech jobs. Let&#039;s connect!
+6:05 AM 06-05-2023 Alan Monteiro (alanrmonteiro@gmail.com) - Hi Daria nice to meet you!
+6:06 AM 06-05-2023 Alan Monteiro (alanrmonteiro@gmail.com) - Welcome to my network!
+12:37 PM 06-05-2023 Daria Aleshchenko (daleshchenko@insquad.com) - Thank you, Alan! I noticed that you&#039;re a software developer with extensive experience in Python and Django. We have a new job opportunity that matches your skills. Would you be interested in learning more about it? If so, please send me your CV for review. I&#039;ll be happy to share more details about the position once I review your experience.
+9:49 PM 17-05-2023 Daria Aleshchenko (daleshchenko@insquad.com) - Hi Alan! I wanted to reach out because I&#039;m currently seeking a software engineer for an exciting opportunity with a US-based unicorn and the leading payments provider in the game development industry. This company is at the forefront of generating and developing innovative ideas in blockchain technologies, Web3, and game development. Currently, they are actively expanding their team and are specifically interested in senior software architects.After reviewing your background, I am impressed by your skills and experience, and I genuinely believe that you would be an excellent fit for this role. The role requires a professional with extensive experience in full-stack and/or backend web development, strong technical proficiency across various programming languages, and a proven track record in optimizing and architecting large complex systems.Are you open to such an opportunity, Alan?
+
+
+Exported from Closely on 3:21 PM 13-07-2023

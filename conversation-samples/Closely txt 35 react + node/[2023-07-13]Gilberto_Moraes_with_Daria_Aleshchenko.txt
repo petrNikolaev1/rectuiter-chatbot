@@ -1,0 +1,12 @@
+Conversation with Gilberto Moraes, FullStack Developer TypeScript / React JS / Vue JS / React Native, Indeed.com
+
+
+1:51 AM 14-04-2023 Daria Aleshchenko (daleshchenko@insquad.com) - Hi Gilberto! My name is Ada. I&#039;m a tech recruiter at Insquad, a talent platform that connects developers with top-notch US tech jobs. Let&#039;s connect!
+1:52 AM 14-04-2023 Gilberto Moraes (moraesgil) - Hi Ada, thanks
+1:46 PM 16-04-2023 Daria Aleshchenko (daleshchenko@insquad.com) - Great to hear back from you, Gilberto! I came across your profile and noticed that you have experience in Java and Node.js. We currently have a job opportunity that requires both skills. Would you be interested in learning more? If you are, could you send in your CV for review? This will help us determine if you are a good fit for the position. Once we have reviewed your CV, we can send more information about the job opportunity.
+5:13 PM 16-04-2023 Gilberto Moraes (moraesgil) - You mean JavaScript?
+5:13 PM 16-04-2023 Gilberto Moraes (moraesgil) - Please send me a job description 🤝
+2:30 PM 17-04-2023 Daria Aleshchenko (daleshchenko@insquad.com) - Thanks for your reply. Here&#039;s a link to a more detailed JD https://dev.insquad.com/senior-full-stack-developer?utm_source=closely&amp;utm_campaign=35-react+node-brazil&amp;utm_content=landing Hope it answers the questions you may have. In the meantime, if you find this opportunity interesting, could please you share your CV so we could review it with the tech team? Thanks.
+
+
+Exported from Closely on 11:28 AM 13-07-2023

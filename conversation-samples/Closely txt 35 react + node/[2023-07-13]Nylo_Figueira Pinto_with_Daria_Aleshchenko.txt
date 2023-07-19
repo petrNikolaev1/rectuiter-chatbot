@@ -1,0 +1,11 @@
+Conversation with Nylo Figueira Pinto, Senior Software Developer | Node.js | Typescript | AWS | Backend | Infrastructure, DREAMDEV
+
+
+12:28 AM 13-04-2023 Daria Aleshchenko (daleshchenko@insquad.com) - Hi Nylo! My name is Ada. I&#039;m a tech recruiter at Insquad, a talent platform that connects developers with top-notch US tech jobs. Let&#039;s connect!
+11:45 AM 14-04-2023 Daria Aleshchenko (daleshchenko@insquad.com) - Hi Nylo! Thanks for connecting. I’m also looking for a full-stack JS developer (React + Node) for a US-based unicorn and top-1 payments provider in gamedev industry. They are generating and developing innovative ideas in the field of blockchain technologies, Web3 and game development. They are currently scaling their team with talented full-stack engineers. After looking at your background, I think you’d be a great fit!Are you open to such an opportunity, Nylo?
+11:53 AM 14-04-2023 Nylo Figueira Pinto (nylo-pinto) - Hello Ada, yes I am considering new opportunities. I just need to know how much they willing to pay
+1:47 PM 16-04-2023 Daria Aleshchenko (daleshchenko@insquad.com) - Thanks for your reply. Here&#039;s a link to a more detailed JD https://dev.insquad.com/senior-full-stack-developer?utm_source=closely&amp;utm_campaign=35-react+node-brazil&amp;utm_content=landing Hope it answers the questions you may have. In the meantime, if you find this opportunity interesting, could please you share your CV so we could review it with the tech team? Thanks.
+7:16 PM 17-04-2023 Nylo Figueira Pinto (nylo-pinto) - Thank you for the information but this value is way above my current pay rate, so.. thank you very much and good luck
+
+
+Exported from Closely on 11:28 AM 13-07-2023

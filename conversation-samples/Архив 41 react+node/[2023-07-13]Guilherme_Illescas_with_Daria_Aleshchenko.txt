@@ -1,0 +1,14 @@
+Conversation with Guilherme Illescas, Senior Front-end Software Engineer - React.js | Next.js | JavaScript | TypeScript | HTML | CSS, Escola Conquer
+
+
+11:49 PM 29-05-2023 Daria Aleshchenko (daleshchenko@insquad.com) - Hi Guilherme! My name is Daria. I&#039;m a tech recruiter at Insquad, a talent platform that connects developers with top-notch US tech jobs. Let&#039;s connect!
+11:52 PM 29-05-2023 Guilherme Illescas (guilherme-illescas) - Hey! It’s a pleasure :)
+11:53 PM 29-05-2023 Guilherme Illescas (guilherme-illescas) - I’m looking for international opportunities. If you have any that I fit in, let me know please :)
+1:58 PM 31-05-2023 Daria Aleshchenko (daleshchenko@insquad.com) - Hi Guilherme! Great to hear that you&#039;re open to international opportunities. We actually have a remote full-time job that seems to match your current experience. Would you be interested in learning more about it? If so, can you send me your CV for review?
+4:59 PM 31-05-2023 Guilherme Illescas (guilherme-illescas) - Oh, nice!
+5:00 PM 31-05-2023 Guilherme Illescas (guilherme-illescas) - Here it is!
+5:01 PM 31-05-2023 Guilherme Illescas (guilherme-illescas) - In my linkedin profile, I have a list of technologies that I&#039;m familiar with!
+5:38 PM 01-06-2023 Daria Aleshchenko (daleshchenko@insquad.com) - Thanks for sending your CV, Guilherme. I went through your LinkedIn profile and it looks like you have a lot of experience working with React and Node.js. We have a remote full-time senior full-stack developer position that might be a good fit for you. It would be great if you can check out the job description on our website and register on our platform to take a quick quiz and coding challenge. Here is the link to the job: https://dev.insquad.com/senior-full-stack-developer?utm_source=closely&amp;utm_campaign=35-react+node-brazil&amp;utm_content=landing Let me know if you have any questions!
+
+
+Exported from Closely on 3:04 PM 13-07-2023

@@ -1,0 +1,15 @@
+Conversation with Altieres Schincariol Netto, Tech Lead | Software Engineer (Python | SQL | AWS), Itaú Unibanco
+
+
+3:40 PM 08-04-2023 Daria Aleshchenko (daleshchenko@insquad.com) - Hi Altieres! My name is Ada. I&#039;m a tech recruiter at Insquad, a talent platform that connects developers with top-notch US tech jobs. Let&#039;s connect!
+3:41 PM 08-04-2023 Altieres Schincariol Netto (altieres-schincariol-netto) - Hello Ada! Glad to connect with you!
+3:41 PM 08-04-2023 Altieres Schincariol Netto (altieres-schincariol-netto) - Any Python roles available?
+6:07 PM 09-04-2023 Daria Aleshchenko (daleshchenko@insquad.com) - Thanks for connecting. I’m also looking for a JS Fullstack developer for a San-Fransisco-based startup. They are working on a project to support game developers and are currently scaling their team with talented devs. After looking at your background, I think you’d be a great fit!Are you open to such an opportunity? If yes, please send in your CV and I will provide more information about the position.
+1:21 AM 11-04-2023 Altieres Schincariol Netto (altieres-schincariol-netto) - Are they only considering JS developers?
+4:08 PM 11-04-2023 Daria Aleshchenko (daleshchenko@insquad.com) - While the startup is primarily looking for a JS developer, we have many clients on our platform who are looking for Python developers. To be considered for these opportunities, you would need to pass our vetting process. The process includes a quiz and a coding challenge, and takes about 1 hour. Once you complete this process, you’ll be added to our talent pool and matched with relevant opportunities from hundreds of our clients.If you’re interested, you can complete the vetting process using this link: https://dev.insquad.com/ Let me know if you have any questions or if there’s anything else I can help you with!
+4:17 PM 11-04-2023 Altieres Schincariol Netto (altieres-schincariol-netto) - Thaks Ada! I will do the registration later!
+1:16 AM 06-05-2023 Altieres Schincariol Netto (altieres-schincariol-netto) - Hello Daria, hope you are doing well!Sorry for being late on answering messages here, I got sick this week. I will adjust my CV a little bit, adding some new things that I have worked on the last monthsBest regards,Altieres
+12:35 PM 06-05-2023 Daria Aleshchenko (daleshchenko@insquad.com) - Hi Altieres, I&#039;m sorry to hear that you were sick, hope you are feeling better now. Please take your time to update your CV, I will be waiting for your updated CV. Once you update your CV, we can move forward with the vetting process and match you with relevant opportunities from hundreds of our clients. Let me know if you have any questions or if there&#039;s anything else I can assist you with.
+
+
+Exported from Closely on 11:27 AM 13-07-2023

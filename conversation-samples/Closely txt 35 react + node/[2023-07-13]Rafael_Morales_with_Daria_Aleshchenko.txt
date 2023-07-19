@@ -1,0 +1,14 @@
+Conversation with Rafael Morales, Fullstack Developer using Javascript, Node.js, Nest.js, HTML5 and Flutter, Inmetrics
+
+
+2:27 PM 11-04-2023 Daria Aleshchenko (daleshchenko@insquad.com) - Hi Rafael! My name is Ada. I&#039;m a tech recruiter at Insquad, a talent platform that connects developers with top-notch US tech jobs. Let&#039;s connect!
+9:37 PM 12-04-2023 Daria Aleshchenko (daleshchenko@insquad.com) - Hi Rafael! Thanks for connecting. I’m also looking for a full-stack JS developer (React + Node) for a US-based unicorn and top-1 payments provider in gamedev industry. They are generating and developing innovative ideas in the field of blockchain technologies, Web3 and game development. They are currently scaling their team with talented full-stack engineers. After looking at your background, I think you’d be a great fit!Are you open to such an opportunity, Rafael?
+9:42 PM 17-04-2023 Daria Aleshchenko (daleshchenko@insquad.com) - Hey Rafael! How are things at Inmetrics? We are recruiting skilled developers in your stack for a core team of a scaling Gamedev unicorn. There is just a couple of opening left, and you are the perfect match for one of them!Let me know if this sounds interesting, and I will tell you more!
+11:57 PM 25-04-2023 Daria Aleshchenko (daleshchenko@insquad.com) - Hi Rafael,Great to hear that you&#039;re interested in the opportunity! To move forward, I would like to ask you to send me your CV for our review. This will help us determine if you have the experience we are looking for. If you could send that over, I&#039;ll be happy to give you more information about the position and answer any questions you may have.
+3:58 PM 26-04-2023 Rafael Morales (rafael_c_morales@yahoo.com.br) - Hi Daria,Follows my resume.
+9:16 PM 26-04-2023 Daria Aleshchenko (daleshchenko@insquad.com) - Hi Rafael,Thanks for sending over your resume. Impressive work experience! Before we move forward, we require that all our developers pass an internal vetting process which includes a quiz and a coding challenge. It takes no more than an hour and you will only have to do it once. We have an open position for a senior full-stack developer with React and Node.js experience. The job is completely remote and the salary is competitive. If you&#039;re interested, please go to the following link, read more information about the job, and register on Insquad platform to take our vetting process: https://dev.insquad.com/senior-full-stack-developer?utm_source=closely&amp;utm_campaign=35-react+node-brazil&amp;utm_content=landing Let me know if you have any questions or if you would like to proceed.
+3:12 PM 27-04-2023 Rafael Morales (rafael_c_morales@yahoo.com.br) - I would love to proceed?
+12:55 AM 10-05-2023 Rafael Morales (rafael_c_morales@yahoo.com.br) - Thank you
+
+
+Exported from Closely on 11:27 AM 13-07-2023

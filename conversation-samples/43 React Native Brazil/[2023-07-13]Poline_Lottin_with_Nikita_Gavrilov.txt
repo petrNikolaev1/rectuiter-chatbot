@@ -1,0 +1,13 @@
+Conversation with Poline Lottin, Software Engineer | Javascript | Craftsman | Frontend, GoCo.io, Inc.
+
+
+8:33 PM 12-06-2023 Nikita Gavrilov (gavnikal@gmail.com) - Hi Poline! My name is Nikita. I&#039;m a tech recruiter at Insquad, a talent platform that connects developers with top-notch US tech jobs. Let&#039;s connect!
+12:57 AM 13-06-2023 Nikita Gavrilov (gavnikal@gmail.com) - Hi Poline! Thanks for connecting. I’m also looking for a mobile developer (React Native) for an ambitious San Fransisco based startup. They are transforming the analytics space for creators and have already helped millions of YouTube creators take their channels to the next level — grow their views and subscribers. The startup is currently scaling the team with talented React Native engineers. After looking at your background, I think you’d be a great fit!Are you open to such an opportunity, Poline?
+5:24 PM 14-06-2023 Poline Lottin (polinelottin) - Hi Nikita! That&#039;s exciting! Do you have other react opportunities? I&#039;m not sure if I want to go to the React Native path. I&#039;m currently working on design system in a staff team
+4:47 PM 16-06-2023 Nikita Gavrilov (gavnikal@gmail.com) - Hi Poline! We also have this vacancy: https://dev.insquad.com/senior-full-stack-js-developer
+4:47 PM 16-06-2023 Nikita Gavrilov (gavnikal@gmail.com) - If you are interested please send me your CV
+5:14 PM 19-06-2023 Poline Lottin (polinelottin) - The stack matches my expectation, but the salary and benefits are below. Currently, I get +80k and unlimited PTO...Let&#039;s keep in touch tho. Thanks for the response!
+1:22 PM 26-06-2023 Nikita Gavrilov (gavnikal@gmail.com) - Hi Poline! Thanks for letting me know. You can register on our platform dev.insquad.com and in the future receive vacancies that match your salary expectations and experience. All you need to do is go to dev.insquad.com, click Apply now and take a short quiz and coding test on your primary stack (those will take an hour of your time max). The coding solution is really essential for this vac, as the companies checks it first (instead of providing test assigments and so on) You will then need to upload your CV on to the platform too.
+
+
+Exported from Closely on 11:35 AM 13-07-2023

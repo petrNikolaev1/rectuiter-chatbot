@@ -1,0 +1,10 @@
+Conversation with Felipe Pereira, Senior Frontend Engineer, LogRock Inc.
+
+
+9:23 PM 29-05-2023 Daria Aleshchenko (daleshchenko@insquad.com) - Hi Felipe! My name is Daria. I&#039;m a tech recruiter at Insquad, a talent platform that connects developers with top-notch US tech jobs. Let&#039;s connect!
+9:23 PM 29-05-2023 Felipe Pereira (felipe.pereira@utyl.com.br) - Hi Daria, nice to meet you
+1:57 PM 31-05-2023 Daria Aleshchenko (daleshchenko@insquad.com) - Likewise, Felipe! Are you open to exploring new job opportunities at the moment? I might have a position that matches your experience. Can you send me your CV for review?
+5:05 PM 04-06-2023 Felipe Pereira (felipe.pereira@utyl.com.br) - Yes I am, you can find my CV at https://lipe.dev/cv
+
+
+Exported from Closely on 3:03 PM 13-07-2023

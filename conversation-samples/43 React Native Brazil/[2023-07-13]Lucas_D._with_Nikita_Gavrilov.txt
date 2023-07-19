@@ -1,0 +1,17 @@
+Conversation with Lucas D., Senior Software Engineer | Frontend | React, TypeScript, GraphQL, Dasa
+
+
+2:48 AM 13-06-2023 Nikita Gavrilov (gavnikal@gmail.com) - Hi Lucas! My name is Nikita. I&#039;m a tech recruiter at Insquad, a talent platform that connects developers with top-notch US tech jobs. Let&#039;s connect!
+4:43 AM 13-06-2023 Nikita Gavrilov (gavnikal@gmail.com) - Hi Lucas! Thanks for connecting. I’m also looking for a mobile developer (React Native) for an ambitious San Fransisco based startup. They are transforming the analytics space for creators and have already helped millions of YouTube creators take their channels to the next level — grow their views and subscribers. The startup is currently scaling the team with talented React Native engineers. After looking at your background, I think you’d be a great fit!Are you open to such an opportunity, Lucas?
+4:31 AM 16-06-2023 Nikita Gavrilov (gavnikal@gmail.com) - Hey Lucas! How are things at Dasa? We are recruiting skilled developers in your stack for the core team of the scaling US-based startup. There is just a couple of opening left, and you are the perfect match for one of them!Let me know if this sounds interesting, and I will tell you more!
+10:07 PM 16-06-2023 Lucas D. (lucasdu4rte) - Hello Nikita!I hope this message finds you well. I&#039;m writing to apologize for my past slow responses. I was deeply engaged in a project aimed at conquering new spaces at my current company, which unfortunately affected my communication
+10:12 PM 16-06-2023 Lucas D. (lucasdu4rte) - I am interested in new opportunities, could you give me more information about them?
+12:32 PM 19-06-2023 Nikita Gavrilov (gavnikal@gmail.com) - Hi Lucas, no worries at all! I completely understand how work can get busy sometimes. I&#039;m glad to hear that you&#039;re interested in new opportunities. At Insquad, we have a cloud talent platform that connects developers with remote, full-time jobs in top-notch US tech companies. To start the process, you&#039;ll need to pass our internal vetting process which includes a quiz and a coding challenge, and takes about an hour to complete. Once you&#039;re in our talent pool, you&#039;ll be matched with relevant opportunities from hundreds of our clients.Here&#039;s the link to the platform where you can start the vetting process: https://dev.insquad.com/. Let me know if you have any questions or need any assistance in the process.
+12:37 PM 19-06-2023 Nikita Gavrilov (gavnikal@gmail.com) - You might be interested in this vacancy https://dev.insquad.com/senior-full-stack-developer? If you are interested please send me your CV :)
+2:53 PM 22-06-2023 Lucas D. (lucasdu4rte) - Hi, Nikita
+2:53 PM 22-06-2023 Lucas D. (lucasdu4rte) - Yes, I&#039;m interested
+2:57 PM 22-06-2023 Lucas D. (lucasdu4rte) - thank you for the patience
+12:14 PM 26-06-2023 Nikita Gavrilov (gavnikal@gmail.com) - Hello Lucas! Thanks for sending in your CV! Your experience looks really impressive. To enrol in the process you will need to click Apply now https://dev.insquad.com/senior-full-stack-developer and take a short quiz and coding test. The coding solution is really essential for this vac, as the company checks it first (instead of providing test assignments and so on) You will then need to upload your CV on to the platform too. If you have any questions please contact me
+
+
+Exported from Closely on 11:42 AM 13-07-2023

@@ -1,0 +1,14 @@
+Conversation with Victor Naito, Sr. Software Developer, Naito Consulting TI
+
+
+2:19 PM 08-04-2023 Daria Aleshchenko (daleshchenko@insquad.com) - Hi Victor! My name is Ada. I&#039;m a tech recruiter at Insquad, a talent platform that connects developers with top-notch US tech jobs. Let&#039;s connect!
+2:19 PM 08-04-2023 Victor Naito (victor.naito@hotmail.com) - Hello Ada! Thanks for reaching me out .
+6:07 PM 09-04-2023 Daria Aleshchenko (daleshchenko@insquad.com) - Thanks for connecting. I’m also looking for a JS Fullstack developer for a San-Fransisco-based startup. They are working on a project to support game developers and are currently scaling their team with talented devs. After looking at your background, I think you’d be a great fit!Are you open to such an opportunity? If yes, please send in your CV and I will provide more information about the position.
+10:26 PM 10-04-2023 Victor Naito (victor.naito@hotmail.com) - Hello Ada!Actually, i&#039;m a .net developer (.net core/ .net 5+).. i&#039;ve experience with JS, but it&#039;s not my first technology
+4:11 PM 11-04-2023 Daria Aleshchenko (daleshchenko@insquad.com) - Hi Victor, Thank you for letting me know about your background. We have a range of opportunities available on our platform, including .NET positions, and I&#039;d be happy to match you with potential opportunities that fit your experience. Could you please send me your CV so that I can review it and see how we can best help you? Let me know if you&#039;re interested and I&#039;ll send you more information about the roles we have available.
+7:14 PM 11-04-2023 Victor Naito (victor.naito@hotmail.com) - Of course Ada.. As soon as I update my cv, I&#039;ll let you know ... Thanks!
+9:59 PM 08-05-2023 Victor Naito (victor.naito@hotmail.com) - Hey Daria, how&#039;s it going?Follow my cv attached it.. thanks
+1:37 PM 09-05-2023 Daria Aleshchenko (daleshchenko@insquad.com) - Hi Victor, I&#039;m actually Ada, not Daria. But no worries, thanks for sending your updated CV! I&#039;m glad to see your experience and skills. Before we start looking for potential opportunities for you, I would like to invite you to take the Insquad vetting process. This is a quick quiz and coding challenge that will give you access to our talent pool and enable us to match you with relevant job opportunities from our clients. Here&#039;s the link to the platform: https://dev.insquad.com/. It takes no more than 1 hour to complete. Let me know when you&#039;ve completed it, and I&#039;ll get back to you with potential job matches.
+
+
+Exported from Closely on 11:27 AM 13-07-2023

@@ -1,0 +1,12 @@
+Conversation with Thiago Silva Ferreira, Senior Front-end Developer, Chatchamp
+
+
+12:35 PM 12-04-2023 Daria Aleshchenko (daleshchenko@insquad.com) - Hi Thiago! My name is Ada. I&#039;m a tech recruiter at Insquad, a talent platform that connects developers with top-notch US tech jobs. Let&#039;s connect!
+12:36 PM 12-04-2023 Thiago Silva Ferreira (thiagosfsjc) - Hello Ada! Nice, let&#039;s keep in touch! Have a nice day :)
+3:23 PM 13-04-2023 Daria Aleshchenko (daleshchenko@insquad.com) - Hi Thiago, hope you&#039;re doing well! Can you send me your CV so I can review it for a potential job opportunity that matches your current experience? Once I review it, I&#039;ll be able to send more information about the job opportunity if you&#039;re interested.
+5:35 PM 13-04-2023 Thiago Silva Ferreira (thiagosfsjc) - Hello Ada! Well, my Linkedin profile have all information about my experiences and skills. But just to be short and sweet, my main focus now is Full-stack development, using Node.js, Ruby on Rails, React and Vue.js.My English level is between B2-C1, and my target compensation per month is $7k USD.Have a good one :)
+12:47 PM 16-04-2023 Daria Aleshchenko (daleshchenko@insquad.com) - Hi Thiago! That&#039;s great to hear that you have experience in Full-stack development. We have a senior Full-stack developer position available in our talent pool. If you&#039;re interested, you can read more about the job and register on the Insquad platform to pass the vetting process. Here&#039;s the link: https://dev.insquad.com/senior-full-stack-developer?utm_source=closely&amp;utm_campaign=35-react+node-brazil&amp;utm_content=landing. Let me know if you have any questions!
+2:25 PM 16-04-2023 Thiago Silva Ferreira (thiagosfsjc) - Hello Ada! Thank you, I&#039;ll have a look at it. :)
+
+
+Exported from Closely on 11:29 AM 13-07-2023

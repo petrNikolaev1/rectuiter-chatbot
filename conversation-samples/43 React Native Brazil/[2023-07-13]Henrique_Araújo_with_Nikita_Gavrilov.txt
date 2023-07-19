@@ -1,0 +1,14 @@
+Conversation with Henrique Araújo, Backend Software Developer | C# | .NET | .NET Core | ASP.NET, PremierSoft
+
+
+6:24 PM 30-05-2023 Nikita Gavrilov (gavnikal@gmail.com) - Hi Henrique! My name is Nikita. I&#039;m a tech recruiter at Insquad, a talent platform that connects developers with top-notch US tech jobs. Let&#039;s connect!
+1:22 AM 31-05-2023 Nikita Gavrilov (gavnikal@gmail.com) - Hi Henrique! Thanks for connecting. I’m also looking for a mobile developer (React Native) for an ambitious San Fransisco based startup. They are transforming the analytics space for creators and have already helped millions of YouTube creators take their channels to the next level — grow their views and subscribers. The startup is currently scaling the team with talented React Native engineers. After looking at your background, I think you’d be a great fit!Are you open to such an opportunity, Henrique?
+9:23 AM 03-06-2023 Nikita Gavrilov (gavnikal@gmail.com) - Hey Henrique! How are things at PremierSoft? We are recruiting skilled developers in your stack for the core team of the scaling US-based startup. There is just a couple of opening left, and you are the perfect match for one of them!Let me know if this sounds interesting, and I will tell you more!
+11:38 PM 05-06-2023 Henrique Araújo (henrique-araújo-ba3589169) - Hi, Nikita
+11:38 PM 05-06-2023 Henrique Araújo (henrique-araújo-ba3589169) - Hope you are doing well
+11:38 PM 05-06-2023 Henrique Araújo (henrique-araújo-ba3589169) - Can you give more details about the job?
+11:38 PM 05-06-2023 Henrique Araújo (henrique-araújo-ba3589169) - Is it full time?
+3:11 PM 06-06-2023 Nikita Gavrilov (gavnikal@gmail.com) - Hi Henrique!Glad to hear back from you. Yes, the job is full-time, and it is a remote role. The company is looking for a Senior .NET Developer. You can learn more about the position and apply by following the link https://dev.insquad.com/senior-net-developer. The first step is to complete the registration and pass the vetting process. If you are interested please send me your CV. Let me know if you have any further questions.
+
+
+Exported from Closely on 11:50 AM 13-07-2023

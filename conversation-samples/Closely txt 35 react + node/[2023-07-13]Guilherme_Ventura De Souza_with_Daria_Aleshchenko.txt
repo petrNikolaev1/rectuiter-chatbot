@@ -1,0 +1,11 @@
+Conversation with Guilherme Ventura De Souza, Senior Front-end Developer | VueJS | ReactJS | AlayaCare, AlayaCare
+
+
+10:54 PM 14-04-2023 Daria Aleshchenko (daleshchenko@insquad.com) - Hi Guilherme! My name is Ada. I&#039;m a tech recruiter at Insquad, a talent platform that connects developers with top-notch US tech jobs. Let&#039;s connect!
+9:55 PM 17-04-2023 Daria Aleshchenko (daleshchenko@insquad.com) - Hi Guilherme! Thanks for connecting. I’m also looking for a full-stack JS developer (React + Node) for a US-based unicorn and top-1 payments provider in gamedev industry. They are generating and developing innovative ideas in the field of blockchain technologies, Web3 and game development. They are currently scaling their team with talented full-stack engineers. After looking at your background, I think you’d be a great fit!Are you open to such an opportunity, Guilherme?
+4:44 AM 18-04-2023 Guilherme Ventura De Souza (venturalp@gmail.com,guilherme@visionline.com.br) - Hi Ada, Sounds interesting, I must say I&#039;ve been focused on Front End stacks, Always up for a challenge though.
+6:10 AM 16-05-2023 Guilherme Ventura De Souza (venturalp@gmail.com,guilherme@visionline.com.br) - Hi Daria, I&#039;m sorry that it took me so long to send you my CV. I travelled and really lost track of some messages.Regards
+4:27 PM 16-05-2023 Daria Aleshchenko (daleshchenko@insquad.com) - Hi Guilherme, no worries at all! I completely understand. I&#039;m glad to hear back from you. By the way, have you had a chance to take our internal vetting process at Insquad? This is a mandatory step for developers who want to be part of our talent pool and be matched with relevant opportunities from our clients.If you haven&#039;t taken the vetting process yet, I encourage you to complete it now and get access to our database of remote full-time jobs. Here&#039;s the link to start the process: https://dev.insquad.com/Let me know if you have any questions or need any assistance with the process. Looking forward to hearing back from you!
+
+
+Exported from Closely on 11:27 AM 13-07-2023

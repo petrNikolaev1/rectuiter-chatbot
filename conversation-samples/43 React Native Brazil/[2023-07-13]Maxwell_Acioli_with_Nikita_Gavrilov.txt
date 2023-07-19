@@ -1,0 +1,13 @@
+Conversation with Maxwell Acioli, Software Engineer, Quimbik, Inc.
+
+
+6:16 PM 01-06-2023 Nikita Gavrilov (gavnikal@gmail.com) - Hi Maxwell! My name is Nikita. I&#039;m a tech recruiter at Insquad, a talent platform that connects developers with top-notch US tech jobs. Let&#039;s connect!
+3:24 AM 02-06-2023 Nikita Gavrilov (gavnikal@gmail.com) - Hi Maxwell! Thanks for connecting. I’m also looking for a mobile developer (React Native) for an ambitious San Fransisco based startup. They are transforming the analytics space for creators and have already helped millions of YouTube creators take their channels to the next level — grow their views and subscribers. The startup is currently scaling the team with talented React Native engineers. After looking at your background, I think you’d be a great fit!Are you open to such an opportunity, Maxwell?
+11:04 PM 05-06-2023 Nikita Gavrilov (gavnikal@gmail.com) - Hey Maxwell! How are things at Quimbik, Inc.? We are recruiting skilled developers in your stack for the core team of the scaling US-based startup. There is just a couple of opening left, and you are the perfect match for one of them!Let me know if this sounds interesting, and I will tell you more!
+5:11 AM 08-06-2023 Maxwell Acioli (maxwellacioli) - Hey there, Nikita. How&#039;s it going?Sorry for the delayed response.I really appreciate your interest in my profile for the remaining positions at the startup you work for.Yes, I have worked with React Native, although not professionally. I have created an app using this technology, as well as another one using Flutter.My main skills are focused on the C# stack and Java stack. I also have experience working with ReactJS, including TypeScript.Regarding these positions, is there a fixed-term contract or any specific terms we should discuss regarding the contract?
+5:12 AM 08-06-2023 Maxwell Acioli (maxwellacioli) - I have another question, how does the recruitment process work for these positions?
+10:59 AM 09-06-2023 Nikita Gavrilov (gavnikal@gmail.com) - Hey Maxwell! Thanks for letting me know. You can register on our platform dev.insquad.com and in the future receive vacancies that match your salary expectations and experience. All you need to do is go to dev.insquad.com, click Apply now and take a short quiz and coding test on your primary stack (those will take an hour of your time max). The coding solution is really essential for this vac, as the companies checks it first (instead of providing test assigments and so on) You will then need to upload your CV on to the platform too.
+4:16 PM 09-06-2023 Maxwell Acioli (maxwellacioli) - Okay, thanks
+
+
+Exported from Closely on 11:46 AM 13-07-2023

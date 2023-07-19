@@ -1,0 +1,13 @@
+Conversation with Robson Emilio Langkammer, Senior Java Developer in Cast group, Cast group
+
+
+11:06 PM 01-05-2023 Daria Aleshchenko (daleshchenko@insquad.com) - Hi Robson! My name is Ada. I&#039;m a tech recruiter at Insquad, a talent platform that connects developers with top-notch US tech jobs. Let&#039;s connect!
+1:20 AM 02-05-2023 Daria Aleshchenko (daleshchenko@insquad.com) - Hi Robson! Thanks for connecting. I’m also looking for a full-stack JS developer (React + Node) for a US-based unicorn and top-1 payments provider in gamedev industry. They are generating and developing innovative ideas in the field of blockchain technologies, Web3 and game development. They are currently scaling their team with talented full-stack engineers. After looking at your background, I think you’d be a great fit!Are you open to such an opportunity, Robson?
+1:24 AM 02-05-2023 Robson Emilio Langkammer (robson-emilio-langkammer-5827b14b) - Thanks for sharing the job, but my profile professional it&#039;s more close Java + Js (angular 2+)
+1:24 AM 02-05-2023 Robson Emilio Langkammer (robson-emilio-langkammer-5827b14b) - But thanks for sharing
+1:25 AM 02-05-2023 Robson Emilio Langkammer (robson-emilio-langkammer-5827b14b) - I Hope do you have good searching.
+1:25 AM 02-05-2023 Robson Emilio Langkammer (robson-emilio-langkammer-5827b14b) - Bye!
+1:53 PM 02-05-2023 Daria Aleshchenko (daleshchenko@insquad.com) - Thanks for letting me know, Robson. Of course, I understand. However, I&#039;d like to let you know that we have many other exciting opportunities available for developers with your skill-set. To be matched with these opportunities, we require all developers to complete our internal vetting process. It takes only 1 hour max and includes a quiz and coding challenge. Would you be interested in completing the vetting process and joining our talent pool, Robson? By joining, you&#039;ll be able to be matched with relevant opportunities from hundreds of our clients. Here is the link to the platform: https://dev.insquad.com/. Let me know if you have any questions or concerns.
+
+
+Exported from Closely on 11:27 AM 13-07-2023

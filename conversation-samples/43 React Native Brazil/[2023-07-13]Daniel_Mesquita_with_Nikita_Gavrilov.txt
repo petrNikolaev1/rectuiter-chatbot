@@ -1,0 +1,10 @@
+Conversation with Daniel Mesquita, Full-stack Software Developer | React | React Native | Node | AWS, 
+
+
+2:24 PM 30-06-2023 Nikita Gavrilov (gavnikal@gmail.com) - Hi, Daniel! I&#039;m a tech recruiter at Insquad, a talent platform that connects developers with top-notch US tech jobs. Let&#039;s connect! If you are interested in future opportunities, you can register on our platform dev.insquad.com and send me your resume here :)
+10:42 PM 30-06-2023 Daniel Mesquita (danielmesquitta) - Hello, Nikita, Thank you for sharing this opportunity
+10:42 PM 30-06-2023 Daniel Mesquita (danielmesquitta) - Here is my resume
+1:52 PM 05-07-2023 Nikita Gavrilov (gavnikal@gmail.com) - Hello, Daniel! Thanks for sending in your CV! Your experience looks really impressive. You can register on our platform dev.insquad.com and in the future receive vacancies that match your salary expectations and experience. All you need to do is go to dev.insquad.com, click Apply now and take a short quiz and coding test on your primary stack (those will take an hour of your time max). The coding solution is really essential for this vac, as the companies checks it first (instead of providing test assigments and so on) You will then need to upload your CV on to the platform too.
+
+
+Exported from Closely on 11:32 AM 13-07-2023

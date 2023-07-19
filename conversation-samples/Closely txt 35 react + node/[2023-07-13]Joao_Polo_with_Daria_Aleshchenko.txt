@@ -1,0 +1,25 @@
+Conversation with Joao Polo, Sr Front End Engineer | React | Remote, Remote
+
+
+5:01 PM 12-04-2023 Joao Polo (joaopolo) - Thanks Ada for connecting me
+5:01 PM 12-04-2023 Daria Aleshchenko (daleshchenko@insquad.com) - Hi Joao! My name is Ada. I&#039;m a tech recruiter at Insquad, a talent platform that connects developers with top-notch US tech jobs. Let&#039;s connect!
+5:02 PM 12-04-2023 Joao Polo (joaopolo) - Are you from Munchen? I love that city, I tried to move there a few years ago, but due pandemic situation we could not leave the country 😂
+3:24 PM 13-04-2023 Daria Aleshchenko (daleshchenko@insquad.com) - No, I&#039;m not from Munich, but I&#039;ve heard great things about the city. I hope you get a chance to visit again soon! By the way, I came across your profile and it looks like you have experience working with React and Node.js. We have a job opportunity that may be a great fit for you. Would you be interested in sending your CV for review?
+4:47 PM 13-04-2023 Joao Polo (joaopolo) - Yes I can send it. But I need to say that despite I have knowledge with node, I&#039;m specialist in front end only
+4:47 PM 13-04-2023 Joao Polo (joaopolo) - I won&#039;t be a good fit for full stack positions
+4:48 PM 13-04-2023 Joao Polo (joaopolo) - I&#039;ll grab on my computer my CV and send it to you on sequence
+4:48 PM 13-04-2023 Joao Polo (joaopolo) - Thanks!!
+12:44 PM 16-04-2023 Daria Aleshchenko (daleshchenko@insquad.com) - Sure! I ll be waiting
+12:59 AM 17-04-2023 Joao Polo (joaopolo) - Oh sorry by long time. I&#039;ll send it.
+2:09 PM 17-04-2023 Daria Aleshchenko (daleshchenko@insquad.com) - I ll be waiting
+9:38 PM 17-04-2023 Joao Polo (joaopolo) - finally 😁
+9:38 PM 17-04-2023 Joao Polo (joaopolo) - I apologize, it was on my old computer but it was not so closest to me
+8:48 PM 01-06-2023 Joao Polo (joaopolo) - Daria, sorry, I couldn&#039;t find some board with current opportunities.If you have some Front End React position, please share with me.Thanks!!!
+10:19 AM 02-06-2023 Daria Aleshchenko (daleshchenko@insquad.com) - Hi Joao, thanks for reaching out! We actually have some exciting opportunities for Senior Full-Stack Developers on our platform. Our talent pool is accessible to tech companies looking for remote talent. If you&#039;re interested, I can share more information and guide you through the registration process. Let me know if this is something you would like to pursue.
+2:54 PM 02-06-2023 Joao Polo (joaopolo) - Perfect, thanks for answering.Is it a platform? I&#039;ll take a look there, then.Maybe I should perform better on front end only positions, but I have knowledge on a few backend technologies, as nodejs, also
+5:56 PM 04-06-2023 Daria Aleshchenko (daleshchenko@insquad.com) - Yes, Insquad is a cloud platform that connects developers with tech companies for remote full-time jobs. Our vetting process covers both front-end and back-end technologies, so your knowledge of Node.js is definitely an asset. If you&#039;re interested in learning more about available job opportunities and becoming part of our talent pool, please visit the following link: https://dev.insquad.com/senior-full-stack-developer?utm_source=closely&amp;utm_campaign=35-react+node-brazil&amp;utm_content=landing. Let me know if you have any questions or need any assistance with the registration process.
+6:40 PM 04-06-2023 Joao Polo (joaopolo) - Thanks, I&#039;ll connect there asap.
+6:40 PM 04-06-2023 Joao Polo (joaopolo) - Tomorrow I&#039;ll grab a time for it
+
+
+Exported from Closely on 11:26 AM 13-07-2023

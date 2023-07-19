@@ -1,0 +1,12 @@
+Conversation with André Silveira, Data Scientist, Nubank
+
+
+12:49 PM 31-05-2023 Nikita Gavrilov (gavnikal@gmail.com) - Hi André! My name is Nikita. I&#039;m a tech recruiter at Insquad, a talent platform that connects developers with top-notch US tech jobs. Let&#039;s connect!
+6:03 AM 01-06-2023 Nikita Gavrilov (gavnikal@gmail.com) - Hi André! Thanks for connecting. I’m also looking for a mobile developer (React Native) for an ambitious San Fransisco based startup. They are transforming the analytics space for creators and have already helped millions of YouTube creators take their channels to the next level — grow their views and subscribers. The startup is currently scaling the team with talented React Native engineers. After looking at your background, I think you’d be a great fit!Are you open to such an opportunity, André?
+10:54 PM 05-06-2023 Nikita Gavrilov (gavnikal@gmail.com) - Hey André! How are things at Nubank? We are recruiting skilled developers in your stack for the core team of the scaling US-based startup. There is just a couple of opening left, and you are the perfect match for one of them!Let me know if this sounds interesting, and I will tell you more!
+2:03 AM 09-06-2023 Nikita Gavrilov (gavnikal@gmail.com) - André ?
+4:06 AM 13-06-2023 André Silveira (andrecarvalhosilveira@gmail.com) - Hi Nikita!Thank you for reaching out.Today I am focused on my current project. It will be a pleasure to talk about ML/AI positions in the future.Thank you,Have a great week!
+4:58 PM 16-06-2023 Nikita Gavrilov (gavnikal@gmail.com) - Hi, André! Thanks for your reply anyway! How about we keep in touch for future opportunities? We focus on working with US-based tech startups. You could become part of our talent base so that once you are open for offers and we have companies that would match your current requirements, we could quickly get in touch with you. All you need to do is go to dev.insquad.com, click Apply now and take a short quiz and coding test on your primary stack (those will take an hour of your time max). You will then need to upload your CV there and voila! - you are part of the Insquad talent base.Takes little time but could be useful in the future =)
+
+
+Exported from Closely on 11:43 AM 13-07-2023

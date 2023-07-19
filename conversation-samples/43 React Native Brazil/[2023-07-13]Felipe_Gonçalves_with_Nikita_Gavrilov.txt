@@ -1,0 +1,9 @@
+Conversation with Felipe Gonçalves, Software Engineer | PHP | JavaScript | MySql | Node.js | Docker | Angular | EJS, Mobiup - Plataformas digitais
+
+
+5:02 AM 04-06-2023 Nikita Gavrilov (gavnikal@gmail.com) - Hi Felipe! My name is Nikita. I&#039;m a tech recruiter at Insquad, a talent platform that connects developers with top-notch US tech jobs. Let&#039;s connect!
+5:02 AM 04-06-2023 Felipe Gonçalves (fellipesg) - Hi Nikita. Sure!
+11:25 AM 05-06-2023 Nikita Gavrilov (gavnikal@gmail.com) - Great to hear from you, Felipe. I noticed that you&#039;re a developer and I wanted to share an opportunity that might interest you. Insquad is a cloud platform that connects talented developers with remote full-time jobs. Our vetting process is quick and easy, only taking an hour at most. By completing it, you can join our talent pool and be matched with relevant opportunities from our clients. Would you be interested in completing the vetting process on our platform? Here&#039;s the link to get started: https://dev.insquad.com/
+
+
+Exported from Closely on 11:59 AM 13-07-2023

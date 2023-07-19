@@ -1,0 +1,14 @@
+Conversation with Bruno Romano, Senior Salesforce Developer, Inclusion Cloud
+
+
+5:11 AM 10-05-2023 Daria Aleshchenko (daleshchenko@insquad.com) - Hi Bruno! My name is Daria. I&#039;m a tech recruiter at Insquad, a talent platform that connects developers with top-notch US tech jobs. Let&#039;s connect!
+3:19 AM 11-05-2023 Daria Aleshchenko (daleshchenko@insquad.com) - Hi Bruno! Thanks for connecting. I’m also looking for a full-stack JS developer (React + Node) for a US-based unicorn and top-1 payments provider in gamedev industry. They are generating and developing innovative ideas in the field of blockchain technologies, Web3 and game development. They are currently scaling their team with talented full-stack engineers. After looking at your background, I think you’d be a great fit!Are you open to such an opportunity, Bruno?
+10:38 PM 15-05-2023 Daria Aleshchenko (daleshchenko@insquad.com) - Hey Bruno! How are things at Inclusion Cloud? We are recruiting skilled developers in your stack for a core team of a scaling  Gamedev unicorn. There is just a couple of opening left, and you are the perfect match for one of them!Let me know if this sounds interesting, and I will tell you more!
+2:43 AM 19-05-2023 Daria Aleshchenko (daleshchenko@insquad.com) - Bruno ?
+6:17 AM 19-05-2023 Bruno Romano (brunoromano23) - Hi Daria, sorry fot the delay
+6:18 AM 19-05-2023 Bruno Romano (brunoromano23) - I am reading your messages
+6:19 AM 19-05-2023 Bruno Romano (brunoromano23) - Actually, my main stack is Salesforce. Do you have challenges with this tech?
+1:14 PM 19-05-2023 Daria Aleshchenko (daleshchenko@insquad.com) - Hi Bruno, thanks for getting back to me! While Salesforce isn&#039;t our main focus, we have had clients in the past who required Salesforce developers. However, to be able to match you with relevant opportunities, we would need to verify your skills through our vetting process. Would you be interested in taking our quiz and coding challenge? This will enable you to join our talent pool, where we can match you with relevant opportunities from hundreds of our clients. Here&#039;s the link to the platform: https://dev.insquad.com/
+
+
+Exported from Closely on 3:11 PM 13-07-2023

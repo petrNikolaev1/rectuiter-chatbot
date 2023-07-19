@@ -1,0 +1,11 @@
+Conversation with Marcos Vinicius Corsi, Senior Software Engineer | Node.js | TypeScript | JavaScript | Express | GraphQL | NestJS | Microservices | AWS | Serverless, Jaya Tech
+
+
+3:08 AM 13-04-2023 Daria Aleshchenko (daleshchenko@insquad.com) - Hi Marcos Vinicius! My name is Ada. I&#039;m a tech recruiter at Insquad, a talent platform that connects developers with top-notch US tech jobs. Let&#039;s connect!
+3:12 PM 13-04-2023 Marcos Vinicius Corsi (marcosvcorsi@gmail.com) - Hi Ada, Sure, I&#039;m also looking for new opportunities, let me knowBest
+3:35 PM 13-04-2023 Daria Aleshchenko (daleshchenko@insquad.com) - Great to hear that, Marcos Vinicius! We currently have a job opportunity that matches your experience. Could you please send me your CV so we can review it? We&#039;ll send more information about the job if you&#039;re interested.
+5:04 PM 14-04-2023 Marcos Vinicius Corsi (marcosvcorsi@gmail.com) - Sure, I&#039;m looking for a backend engineer position, and currently, I&#039;m working with Node.js and Typescript
+1:50 PM 16-04-2023 Daria Aleshchenko (daleshchenko@insquad.com) - That&#039;s perfect, Marcos Vinicius! We have an opening for a senior full-stack developer position that requires Node.js and Typescript experience. You can learn more about the job at this link: https://dev.insquad.com/senior-full-stack-developer?utm_source=closely&amp;utm_campaign=35-react+node-brazil&amp;utm_content=landingTo be considered for the position, please register on our platform and pass our vetting process. It only takes an hour max and you only have to do it once. Let me know if you have any questions or need any assistance with the registration process.
+
+
+Exported from Closely on 11:30 AM 13-07-2023

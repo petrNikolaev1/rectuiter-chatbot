@@ -1,0 +1,15 @@
+Conversation with Diego Krefta, JavaScript Developer | React Developer | Next Developer | GraphQL, Feats
+
+
+1:37 AM 12-04-2023 Daria Aleshchenko (daleshchenko@insquad.com) - Hi Diego! My name is Ada. I&#039;m a tech recruiter at Insquad, a talent platform that connects developers with top-notch US tech jobs. Let&#039;s connect!
+2:15 AM 12-04-2023 Diego Krefta (diego-krefta) - Hey Ada, nice to meet you :)
+3:22 PM 13-04-2023 Daria Aleshchenko (daleshchenko@insquad.com) - Likewise, Diego! I noticed your profile and I think you might be a good fit for a remote full-time job opportunity we have available. Would you be interested in learning more about it?
+3:27 PM 13-04-2023 Diego Krefta (diego-krefta) - Sure sure, can we set a meeting perhaps for tomorrow or next week? Do you have Calendly?Thanks
+3:36 PM 13-04-2023 Daria Aleshchenko (daleshchenko@insquad.com) - Absolutely! I can send you a Calendly link so you can schedule a call at your convenience. Before that, could you email me your CV so I can review it? This will help me determine if the job opportunity aligns with your skills and experience. If you&#039;re interested, I&#039;ll send you more details about the job.
+4:10 PM 13-04-2023 Diego Krefta (diego-krefta) - Here&#039;s my resume
+4:10 PM 13-04-2023 Diego Krefta (diego-krefta) - Perfect, I will be waiting :)
+12:22 PM 16-04-2023 Daria Aleshchenko (daleshchenko@insquad.com) - Thank you, Diego! I will review your CV and send you more information about the job opportunity as soon as possible. In the meantime, you can check out this link for a senior full-stack developer position we have available on our platform: https://dev.insquad.com/senior-full-stack-developer?utm_source=closely&amp;utm_campaign=35-react+node-brazil&amp;utm_content=landing. If you&#039;re interested, you can register on Insquad&#039;s platform and take our vetting process which includes a quiz and a coding challenge. Let me know if you have any questions!
+7:20 PM 17-04-2023 Diego Krefta (diego-krefta) - Hey Ada, I did some small changes on my resume.
+
+
+Exported from Closely on 11:28 AM 13-07-2023

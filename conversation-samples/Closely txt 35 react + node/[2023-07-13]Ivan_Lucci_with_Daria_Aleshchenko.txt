@@ -1,0 +1,13 @@
+Conversation with Ivan Lucci, Senior Web Developer, DataArt
+
+
+3:51 AM 10-04-2023 Daria Aleshchenko (daleshchenko@insquad.com) - Hi Ivan! My name is Ada. I&#039;m a tech recruiter at Insquad, a talent platform that connects developers with top-notch US tech jobs. Let&#039;s connect!
+3:53 AM 10-04-2023 Ivan Lucci (ivanlucci) - Hi Ada! Thanks for reaching me out, we can connect for possible opportunities in the future!
+4:49 PM 11-04-2023 Daria Aleshchenko (daleshchenko@insquad.com) - Thanks for connecting. I’m also looking for a JS Fullstack developer for a San-Fransisco-based startup. They are working on a project to support game developers and are currently scaling their team with talented devs. After looking at your background, I think you’d be a great fit!Are you open to such an opportunity? If yes, please send in your CV and I will provide more information about the position.
+8:32 PM 11-04-2023 Ivan Lucci (ivanlucci) - Don&#039;t mention it. This seems to be more interesting for me. I&#039;m currently working at a company, but I would like to know more about this opportunity. My CV is not updated, it&#039;s missing my last (and current) job, but all the other information are updated.
+3:15 PM 13-04-2023 Daria Aleshchenko (daleshchenko@insquad.com) - Sure, Ivan! I&#039;ll be happy to provide you with more information. The position is for a Senior Fullstack Developer with experience in React and Node.js for a remote-only opportunity. The project is focused on supporting game developers in creating and managing in-game content. The company is based in San Francisco and is currently growing its team.If you&#039;re interested, you can register on our platform and pass our vetting process. Here is the link for the job description: https://dev.insquad.com/senior-full-stack-developer?utm_source=closely&amp;utm_campaign=35-react+node-brazil&amp;utm_content=landing. Let me know if you have any questions!
+6:13 PM 13-04-2023 Ivan Lucci (ivanlucci) - Thank you for the information Ada! Could you share the compensation rate for this role?
+12:48 PM 16-04-2023 Daria Aleshchenko (daleshchenko@insquad.com) - $3500-5500 per month
+
+
+Exported from Closely on 11:30 AM 13-07-2023

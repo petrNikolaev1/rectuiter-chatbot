@@ -1,0 +1,10 @@
+Conversation with Magno Guimarães, Front-end Developer | React | Next | Typescript, Qurable
+
+
+3:48 AM 06-07-2023 Nikita Gavrilov (gavnikal@gmail.com) - Hi Magno! My name is Nikita. I&#039;m a tech recruiter at Insquad, a talent platform that connects developers with top-notch US tech jobs. Let&#039;s connect!
+3:58 AM 06-07-2023 Magno Guimarães (magnogcs) - Hi Nikita! Do you have any position as frontend developer?
+6:44 PM 06-07-2023 Nikita Gavrilov (gavnikal@gmail.com) - Hi Magno! You can register on our platform dev.insquad.com and in the future receive vacancies that match your salary expectations and experience. All you need to do is go to dev.insquad.com, click Apply now and take a short quiz and coding test on your primary stack (those will take an hour of your time max). The coding solution is really essential for this vac, as the companies checks it first (instead of providing test assigments and so on) You will then need to upload your CV on to the platform too.
+7:57 PM 06-07-2023 Magno Guimarães (magnogcs) - Okay, thanks!
+
+
+Exported from Closely on 11:31 AM 13-07-2023

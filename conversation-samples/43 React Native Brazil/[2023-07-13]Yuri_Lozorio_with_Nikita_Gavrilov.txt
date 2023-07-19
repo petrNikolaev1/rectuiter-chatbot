@@ -1,0 +1,10 @@
+Conversation with Yuri Lozorio, Senior Software Engineer | Golang | Rust | React | Crypto | Blockchain, Klever
+
+
+6:53 PM 06-06-2023 Nikita Gavrilov (gavnikal@gmail.com) - Hi Yuri! My name is Nikita. I&#039;m a tech recruiter at Insquad, a talent platform that connects developers with top-notch US tech jobs. Let&#039;s connect!
+10:47 PM 06-06-2023 Nikita Gavrilov (gavnikal@gmail.com) - Hi Yuri! Thanks for connecting. I’m also looking for a mobile developer (React Native) for an ambitious San Fransisco based startup. They are transforming the analytics space for creators and have already helped millions of YouTube creators take their channels to the next level — grow their views and subscribers. The startup is currently scaling the team with talented React Native engineers. After looking at your background, I think you’d be a great fit!Are you open to such an opportunity, Yuri?
+1:57 AM 07-06-2023 Yuri Lozorio (ylozorio@infosiscs.com.br) - Hi Nikita, thanks for the connection, yes i am open to hear, can you tell me more about it?
+11:15 AM 09-06-2023 Nikita Gavrilov (gavnikal@gmail.com) - Hi Yuri! You might be interested in this vacancy https://dev.insquad.com/senior-mobile-engineer?utm_source=closely&amp;utm_campaign=43-react-native-brazil&amp;utm_content=landing? If you are interested please send me your CV.You can also register on our platform dev.insquad.com  and receive job offers that match your stack, experience and salary expectations.
+
+
+Exported from Closely on 11:49 AM 13-07-2023

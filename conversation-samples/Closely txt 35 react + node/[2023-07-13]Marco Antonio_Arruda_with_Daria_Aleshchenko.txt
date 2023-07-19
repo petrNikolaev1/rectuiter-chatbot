@@ -1,0 +1,14 @@
+Conversation with Marco Antonio Arruda, Software Consultant, Prediktive
+
+
+1:27 AM 13-04-2023 Daria Aleshchenko (daleshchenko@insquad.com) - Hi Marco Antonio! My name is Ada. I&#039;m a tech recruiter at Insquad, a talent platform that connects developers with top-notch US tech jobs. Let&#039;s connect!
+1:27 AM 13-04-2023 Marco Antonio Arruda (marco.nc.arruda@gmail.com) - Hi Ada, I&#039;m glad to connect
+3:28 PM 13-04-2023 Daria Aleshchenko (daleshchenko@insquad.com) - Great to hear that! We have a potential job opportunity that seems to match your current experience. Can you please send us your CV for review? It will help us ensure that you have the necessary experience for the position.
+11:29 PM 16-04-2023 Marco Antonio Arruda (marco.nc.arruda@gmail.com) - Hi Ada, thank you for letting me know. It would be great to know more about the position
+2:16 PM 17-04-2023 Daria Aleshchenko (daleshchenko@insquad.com) - Thanks for your reply. Here&#039;s a link to a more detailed JD https://dev.insquad.com/senior-full-stack-developer?utm_source=closely&amp;utm_campaign=35-react+node-brazil&amp;utm_content=landing Hope it answers the questions you may have. In the meantime, if you find this opportunity interesting, could please you share your CV so we could review it with the tech team? Thanks.
+4:19 PM 17-04-2023 Marco Antonio Arruda (marco.nc.arruda@gmail.com) - Thanks for sharing
+4:19 PM 17-04-2023 Marco Antonio Arruda (marco.nc.arruda@gmail.com) - Unfortunately I don’t have that much experience with react, it would be great to work in a VueJS/typescript position
+4:28 PM 17-04-2023 Marco Antonio Arruda (marco.nc.arruda@gmail.com) - Do you have a cv model? I’ve been using the one I can generate from LinkedIn, not sure if that fits to your needs
+
+
+Exported from Closely on 11:28 AM 13-07-2023

@@ -1,0 +1,12 @@
+Conversation with Elias Decezero, Senior Java Developer, Meta
+
+
+4:15 AM 14-04-2023 Daria Aleshchenko (daleshchenko@insquad.com) - Hi Elias! My name is Ada. I&#039;m a tech recruiter at Insquad, a talent platform that connects developers with top-notch US tech jobs. Let&#039;s connect!
+6:50 PM 15-04-2023 Elias Decezero (emdecezero) - Hi Ada, thanks for connecting
+7:33 PM 15-04-2023 Daria Aleshchenko (daleshchenko@insquad.com) - Hi Elias! Thanks for connecting. I’m also looking for a full-stack JS developer (React + Node) for a US-based unicorn and top-1 payments provider in gamedev industry. They are generating and developing innovative ideas in the field of blockchain technologies, Web3 and game development. They are currently scaling their team with talented full-stack engineers. After looking at your background, I think you’d be a great fit!Are you open to such an opportunity, Elias?
+10:19 PM 15-04-2023 Elias Decezero (emdecezero) - Hi thanks for the opportunity but i guess wouldn’t be a good fit, i am more into financial fields that i have more experience and also my main language is javaRegards
+1:54 PM 16-04-2023 Daria Aleshchenko (daleshchenko@insquad.com) - Hi Elias, I completely understand. We have a lot of clients looking for developers with financial experience and Java skills. To become part of our talent pool and receive relevant opportunities, you can take our vetting process that includes a quiz and a coding challenge. It takes about an hour and is a one-time process. Here&#039;s the link to the platform: https://dev.insquad.com/. Let me know if you have any questions or if you&#039;re interested in taking the vetting process.
+4:58 PM 16-04-2023 Elias Decezero (emdecezero) - Thanks Ada, i will check my schedule this week and let you know
+
+
+Exported from Closely on 11:29 AM 13-07-2023

@@ -1,0 +1,11 @@
+Conversation with Rafael Teixeira, Software Engineer | Frontend Developer | React.js | Next.js | TypeScript, Welbe Care
+
+
+11:57 AM 12-04-2023 Daria Aleshchenko (daleshchenko@insquad.com) - Hi Rafael! My name is Ada. I&#039;m a tech recruiter at Insquad, a talent platform that connects developers with top-notch US tech jobs. Let&#039;s connect!
+9:23 PM 13-04-2023 Daria Aleshchenko (daleshchenko@insquad.com) - Hi Rafael! Thanks for connecting. I’m also looking for a full-stack JS developer (React + Node) for a US-based unicorn and top-1 payments provider in gamedev industry. They are generating and developing innovative ideas in the field of blockchain technologies, Web3 and game development. They are currently scaling their team with talented full-stack engineers. After looking at your background, I think you’d be a great fit!Are you open to such an opportunity, Rafael?
+2:44 AM 14-04-2023 Rafael Teixeira (rafael-eduardo-teixeira) - Hi, Ada unfortunately Im looking only for frontend roles.I&#039;ve never worked with Node.
+2:44 AM 14-04-2023 Rafael Teixeira (rafael-eduardo-teixeira) - I know Node because I studied about, however I&#039;ve never worked with it
+1:46 PM 16-04-2023 Daria Aleshchenko (daleshchenko@insquad.com) - Hi Rafael, thank you for letting me know. We have plenty of frontend opportunities available on our platform as well. To be matched with relevant opportunities, please complete our vetting process, which includes a quiz and a coding challenge. You only need to take it once and it takes one hour max. You can find the link to our platform here: https://dev.insquad.com/. Let me know if you have any questions or need any assistance.
+
+
+Exported from Closely on 11:30 AM 13-07-2023

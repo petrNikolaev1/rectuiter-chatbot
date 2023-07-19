@@ -1,0 +1,10 @@
+Conversation with André G., Software Engineer, Athon Energia
+
+
+8:20 PM 30-05-2023 Nikita Gavrilov (gavnikal@gmail.com) - Hi André! My name is Nikita. I&#039;m a tech recruiter at Insquad, a talent platform that connects developers with top-notch US tech jobs. Let&#039;s connect!
+1:24 AM 31-05-2023 Nikita Gavrilov (gavnikal@gmail.com) - Hi André! Thanks for connecting. I’m also looking for a mobile developer (React Native) for an ambitious San Fransisco based startup. They are transforming the analytics space for creators and have already helped millions of YouTube creators take their channels to the next level — grow their views and subscribers. The startup is currently scaling the team with talented React Native engineers. After looking at your background, I think you’d be a great fit!Are you open to such an opportunity, André?
+10:20 PM 02-06-2023 André G. (andre-ohuti) - Hi, Nikita. How are you?Unfortunately I have no experience with mobile development, my skills are more focused on backend systems design and engineering. But thanks for connecting with me!I hope to hear from you in the future about other roles that I might fit better!
+11:49 AM 05-06-2023 Nikita Gavrilov (gavnikal@gmail.com) - Hi André, I&#039;m doing well, thank you for asking! I appreciate your honesty and I&#039;m glad we got connected. We are always looking for talented developers with different backgrounds. If you&#039;re interested in joining our talent pool, you would be exposed to hundreds of job opportunities, including backend systems design and engineering roles.To join our talent pool, all you need to do is complete our internal vetting process, which includes a quiz and a coding challenge. It takes no more than an hour. Here is the link to the platform: https://dev.insquad.com/. Let me know if you have any questions or concerns.
+
+
+Exported from Closely on 11:52 AM 13-07-2023

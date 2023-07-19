@@ -1,0 +1,10 @@
+Conversation with Lucas P., Senior Software Engineer | Backend Developer | .NET Core, Dell Technologies
+
+
+4:44 AM 17-05-2023 Daria Aleshchenko (daleshchenko@insquad.com) - Hi Lucas! My name is Daria. I&#039;m a tech recruiter at Insquad, a talent platform that connects developers with top-notch US tech jobs. Let&#039;s connect!
+6:56 AM 17-05-2023 Daria Aleshchenko (daleshchenko@insquad.com) - Hi Lucas! Thanks for connecting. I’m also looking for a full-stack JS developer (React + Node) for a US-based unicorn and top-1 payments provider in gamedev industry. They are generating and developing innovative ideas in the field of blockchain technologies, Web3 and game development. They are currently scaling their team with talented full-stack engineers. After looking at your background, I think you’d be a great fit!Are you open to such an opportunity, Lucas?
+5:05 PM 17-05-2023 Lucas P. (lucas-pachecos) - Hi Daria, thanks for the connection. It is a very interesting opportunity. Maybe I am not the best fit for this because I&#039;ve been working mainly with .NET and C# stack during the last few years. I am open to other opportunities related to the current stack that I&#039;ve been working on. If you have some I would be happy to talk about it. Thank you!
+12:48 PM 19-05-2023 Daria Aleshchenko (daleshchenko@insquad.com) - Hi Lucas, thanks for getting back to me. I totally understand. At Insquad we work with various clients and have different opportunities available. To help you find a good fit, I recommend that you complete the Insquad vetting process. This will give you access to our talent pool and enable us to match you with relevant opportunities from our clients. The process only takes an hour and includes a quiz and coding challenge. Here is the link to the platform: https://dev.insquad.com/ Let me know if you have any questions!
+
+
+Exported from Closely on 3:12 PM 13-07-2023

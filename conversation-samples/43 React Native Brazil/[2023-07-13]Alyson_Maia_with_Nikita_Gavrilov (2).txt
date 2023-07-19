@@ -1,0 +1,21 @@
+Conversation with Alyson Maia, Software Engineer | React Developer, Inscyth Technologies
+
+
+11:48 PM 24-05-2023 Nikita Gavrilov (gavnikal@gmail.com) - Hi Alyson! My name is Nikita. I&#039;m a tech recruiter at Insquad, a talent platform that connects developers with top-notch US tech jobs. Let&#039;s connect!
+11:48 PM 24-05-2023 Alyson Maia (alyson-maia) - Hey, Nikita, how are doing?
+3:53 PM 25-05-2023 Nikita Gavrilov (gavnikal@gmail.com) - Hi Alyson! I&#039;m doing well, thank you for asking. I wanted to follow up on our previous conversation about Insquad. We have a potential job opportunity that seems to match your current experience. Would you be interested in hearing more about it?
+10:49 PM 26-06-2023 Alyson Maia (alyson-maia) - Hey, Nikita, sorry for the late response! I&#039;m interested in hearing more about opportunities at Insquad 😄
+10:50 PM 26-06-2023 Alyson Maia (alyson-maia) - Although I&#039;m not actively searching for a new position, I&#039;ll be happy to know more about it
+3:32 PM 29-06-2023 Nikita Gavrilov (gavnikal@gmail.com) - Hi Alyson! Here&#039;s a link to a more detailed JD https://dev.insquad.com/senior-full-stack-developer?utm_source=closely&amp;utm_campaign=54-react+node-brazil&amp;utm_content=landing? If you are interested please send me your CV :)
+11:39 PM 29-06-2023 Alyson Maia (alyson-maia) - Great! I&#039;ll complete the assessment 😁
+2:21 PM 30-06-2023 Nikita Gavrilov (gavnikal@gmail.com) - Thank you, you can send me your resume :)
+11:47 PM 30-06-2023 Alyson Maia (alyson-maia) - Here you go
+12:58 AM 01-07-2023 Alyson Maia (alyson-maia) - Hey, Nikita! I would like to leave feedback on the quiz. Some of the questions are dubious or poorly written. Take this one for example:
+1:03 AM 01-07-2023 Alyson Maia (alyson-maia) - The questions ask if the lines of code are correct, and they are. The affirmation about the state not being reflected immediately is also true, but that does not make the code wrong. You can see a very similar example in React docs (https://react.dev/reference/react/Component#state).
+1:05 AM 01-07-2023 Alyson Maia (alyson-maia) - So the answer to &quot;Is this correct?&quot; is &quot;Everything is correct&quot;. The &quot;no&quot; on the first option makes one think that there&#039;s something wrong, which there isn&#039;t.
+1:07 AM 01-07-2023 Alyson Maia (alyson-maia) - Also, the quiz is focused on an old version of React. It asks a lot about features that are no longer used in recent versions. One that learned React in the last couple of years could not be familiar with features that are not even used in any recent code.
+1:07 AM 01-07-2023 Alyson Maia (alyson-maia) - Hope that this feedback helps Insquad to improve the evaluation of candidates 😁
+2:13 PM 05-07-2023 Nikita Gavrilov (gavnikal@gmail.com) - Hi Alyson!  :) Thanks for your feedback. I will pass this information on to our team.
+
+
+Exported from Closely on 11:48 AM 13-07-2023

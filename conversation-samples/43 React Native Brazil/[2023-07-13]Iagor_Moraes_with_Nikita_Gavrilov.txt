@@ -1,0 +1,21 @@
+Conversation with Iagor Moraes, Javascript - Typescript Developer | Exclusible | Entrepreneur, Rebellion Pay
+
+
+1:26 AM 03-05-2023 Nikita Gavrilov (gavnikal@gmail.com) - Hi Iagor! My name is Nikita. I&#039;m a tech recruiter at Insquad, a talent platform that connects developers with top-notch US tech jobs. Let&#039;s connect!
+1:27 AM 03-05-2023 Iagor Moraes (iagor-moraes) - Hey Nikita l, this sounds very good!
+1:37 PM 03-05-2023 Nikita Gavrilov (gavnikal@gmail.com) - Thank you, Iagor! I&#039;d love to tell you more about Insquad. We work with top companies that are looking for skilled developers for full-time remote work. Would you be interested in learning more?
+9:03 PM 03-05-2023 Iagor Moraes (iagor-moraes) - Sure I am interested.
+7:59 PM 04-05-2023 Nikita Gavrilov (gavnikal@gmail.com) - Great to hear that, Iagor! Based on your profile, you seem to have solid experience in software development. Do you have a CV that you could send my way? This will allow me to check if your experience would be a good fit for the current job opportunities we have available.
+1:37 AM 05-05-2023 Iagor Moraes (iagor-moraes) - Sure! Here you can see my updated CV :)
+10:18 AM 05-05-2023 Nikita Gavrilov (gavnikal@gmail.com) - Thank you, Iagor! Your experience looks impressive. At Insquad, we have a current opening for a senior mobile engineer to work on a React Native mobile application project for one of our clients. Would you be interested in learning more about this opportunity and passing our vetting process? You can find more information about the job and register on our website using this link: https://dev.insquad.com/senior-mobile-engineer?utm_source=closely&amp;utm_campaign=43-react-native-brazil&amp;utm_content=landing
+12:44 PM 05-05-2023 Iagor Moraes (iagor-moraes) - Hey Nikita, I read the job opportunity and it looks really good, but the salary range is lower of what I receive currently, it is negotiable to have it for $7k? By the way thanks for the transparency on that information :)
+9:11 AM 08-05-2023 Nikita Gavrilov (gavnikal@gmail.com) - Hi Iagor! You can register and test on our platform. The salary range can be discussed at the interview. Wish you luck!
+1:48 AM 09-05-2023 Iagor Moraes (iagor-moraes) - Alright then.
+9:18 PM 09-05-2023 Iagor Moraes (iagor-moraes) - Hey Nikita, I was debugging Insquad skills-backend service, as it runs graphql is common to left introspection open for production, is just a friendly advise for your tech team to do not let it open for production as any attacker can understand all the queries and mutations that the application may have.
+9:20 PM 09-05-2023 Iagor Moraes (iagor-moraes) - about the tests, I&#039;ve done react and react native and uploaded my CV, unfortunately some code challenges were not related to the library/framework but to programming logic, some quiz question were not clear also, but other than that the product looks very interesting, congrats for the team!
+10:14 AM 10-05-2023 Nikita Gavrilov (gavnikal@gmail.com) - Hi! Thank you for your feedback, Iagor. We appreciate your input on our skills-backend service and will take your advice into consideration. I&#039;m also glad to hear that you found Insquad interesting and were able to complete some of the code challenges and quizzes. If you have any other questions or concerns, please don&#039;t hesitate to reach out!
+12:49 PM 10-05-2023 Iagor Moraes (iagor-moraes) - alright, thank you Nikita!
+9:30 PM 09-06-2023 Iagor Moraes (iagor-moraes) - Hey Nikita, could you send a message to Anna saying that I&#039;ve sent the correct email for the meet today. Thanks!
+
+
+Exported from Closely on 11:45 AM 13-07-2023

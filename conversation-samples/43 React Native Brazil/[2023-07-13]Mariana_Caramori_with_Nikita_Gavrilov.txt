@@ -1,0 +1,12 @@
+Conversation with Mariana Caramori, Software Engineer, Chameleon
+
+
+9:37 PM 07-06-2023 Nikita Gavrilov (gavnikal@gmail.com) - Hi Mariana! My name is Nikita. I&#039;m a tech recruiter at Insquad, a talent platform that connects developers with top-notch US tech jobs. Let&#039;s connect!
+1:24 AM 08-06-2023 Nikita Gavrilov (gavnikal@gmail.com) - Hi Mariana! Thanks for connecting. I’m also looking for a mobile developer (React Native) for an ambitious San Fransisco based startup. They are transforming the analytics space for creators and have already helped millions of YouTube creators take their channels to the next level — grow their views and subscribers. The startup is currently scaling the team with talented React Native engineers. After looking at your background, I think you’d be a great fit!Are you open to such an opportunity, Mariana?
+9:19 PM 12-06-2023 Nikita Gavrilov (gavnikal@gmail.com) - Hey Mariana! How are things at Chameleon? We are recruiting skilled developers in your stack for the core team of the scaling US-based startup. There is just a couple of opening left, and you are the perfect match for one of them!Let me know if this sounds interesting, and I will tell you more!
+10:47 PM 15-06-2023 Nikita Gavrilov (gavnikal@gmail.com) - Mariana ?
+2:35 AM 27-06-2023 Mariana Caramori (mariana-caramori) - Hi Nikita! Sorry for the delay, I was on holidays and didn&#039;t have my laptop with me to have a proper look at the linkedin messages. Thanks for reaching out!I actually have lots of experience with ReactJS but little experience with React Native, so I&#039;m not sure if I would be the best fit if they&#039;re looking for someone more senior
+3:33 PM 29-06-2023 Nikita Gavrilov (gavnikal@gmail.com) - Hi Mariana! Thanks for letting me know. You can register on our platform dev.insquad.com and in the future receive vacancies that match your salary expectations and experience. All you need to do is go to dev.insquad.com, click Apply now and take a short quiz and coding test on your primary stack (those will take an hour of your time max). The coding solution is really essential for this vac, as the companies checks it first (instead of providing test assigments and so on) You will then need to upload your CV on to the platform too.
+
+
+Exported from Closely on 11:34 AM 13-07-2023
