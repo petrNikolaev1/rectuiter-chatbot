@@ -11,9 +11,9 @@ from langchain.vectorstores import FAISS
 from langchain.memory import ConversationBufferMemory
 
 from constants import QA_FOLDER, OPENAI_API_KEY, RECRUITER_SEQUENCE_MESSAGE_1, RECRUITER_MODEL_BASE_PROMPT
-os.environ['OPENAI_API_KEY'] = OPENAI_API_KEY
+from utils import log_documents
 
-# templates to init communication
+os.environ['OPENAI_API_KEY'] = OPENAI_API_KEY
 
 # Reading historical conversations data
 
@@ -26,10 +26,11 @@ print('Docs Number:', len(docs))
 # Turning historical conversations into embeddings
 embeddings = OpenAIEmbeddings( )
 vectors = FAISS.from_documents(docs, embeddings)
+retriever = vectors.as_retriever(search_type="similarity", search_kwargs={"k":3})
 
 # Conversational (Chat) Model used
 chatModel = ConversationalRetrievalChain.from_llm(llm = ChatOpenAI(temperature=0.0,model_name='gpt-4'),
-                                                  retriever=vectors.as_retriever())
+                                                 retriever=retriever,   chain_type="stuff", return_source_documents=True)
 
 # Memory
 recruiterModelMemory = ConversationBufferMemory(input_key='candidate_question', memory_key='recruiter_model_history')
@@ -37,7 +38,7 @@ recruiterModelMemory = ConversationBufferMemory(input_key='candidate_question', 
 
 # Prompt templates
 recruiterModelPromptTemplate = PromptTemplate(
-    input_variables = ['candidate_question', 'conversation_context'],
+    input_variables = ['candidate_question', 'knowledge_base_answer'],
     template=RECRUITER_MODEL_BASE_PROMPT
 )
 
@@ -49,9 +50,12 @@ recruiterModel = LLMChain(llm=llm, prompt=recruiterModelPromptTemplate, verbose=
 
 def conversational_chat(query):
     print('------------------\nhistory\n', st.session_state['history'])
-    chatModelResult = chatModel({"question": query, "chat_history": st.session_state['history']})['answer']
-    print('------------------\nchatModelResult\n', chatModelResult)
-    recuiterModelResult = recruiterModel.run({'conversation_context': chatModelResult, "candidate_question": query})
+    chatModelResult = chatModel({"question": query, "chat_history": st.session_state['history']})
+    chatModelResultAnswer = chatModelResult['answer']
+    chatModelResultSourceDocuments = chatModelResult['source_documents']
+    print('------------------\nchatModelResultAnswer\n', chatModelResultAnswer)
+    log_documents(chatModelResultSourceDocuments)
+    recuiterModelResult = recruiterModel.run({'knowledge_base_answer': chatModelResultAnswer, "candidate_question": query})
     print('------------------\nrecuiterModelResult\n', recuiterModelResult)
     st.session_state['history'].append((query, recuiterModelResult))
 
